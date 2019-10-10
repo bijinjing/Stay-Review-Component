@@ -7,6 +7,7 @@ A review module for a short term apartment booking app. Built with React, Node/E
   - https://github.com/stay-app/Stay-Overview
   - https://github.com/stay-app/Stay-Reservation-Service
   - https://github.com/stay-app/Stay-PhotoGallery-Service
+  - https://github.com/bijinjing/Stay-Review-Proxy
 
 ## Table of Contents
 
